@@ -6,5 +6,5 @@ I am posting a link to the Rough Draft of my Capstone-1 - It is a work in progre
 This project is an analysis of the World Happiness Report data, with a specific focus on the Social Support variable.
 
 
-https://public.tableau.com/profile/colin.barclay#!/vizhome/CapstoneTWO_roughdraft/Story1?publish=yes
+https://public.tableau.com/profile/colin.barclay#!/vizhome/CapstoneTWO_roughdraft/Story2
 
